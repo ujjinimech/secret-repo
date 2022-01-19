@@ -3,6 +3,7 @@ kind: Kustomization
 namespace: nginx
 resources:
   - bitnami-repo.yaml
+  - bitnami-secret-repo.yml
   - namespace.yaml  
   - release.yaml
   - postgre.realese.yml
