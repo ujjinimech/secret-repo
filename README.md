@@ -3,7 +3,7 @@
 #### For Production
 ~~~
 flux bootstrap github \
- --owner=sathyap0104 \
+ --owner=ujjinimech \
  --repository=GitOps \
  --branch=main \
  --read-write-key=true \
@@ -14,7 +14,7 @@ flux bootstrap github \
 #### For Staging
 ~~~
 flux bootstrap github \
---owner=sathyap0104 \
+--owner=ujjinimech \
 --repository=GitOps \
 --branch=main \
 --read-write-key=true \
