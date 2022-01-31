@@ -7,7 +7,7 @@ spec:
   interval: 5s
   path: ./apps/base/nginx
   prune: true
-  timeout: 3m0s
+  timeout: 1h0m0s
   sourceRef:
     kind: GitRepository
     name: flux-system 
